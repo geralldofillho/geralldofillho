@@ -3,19 +3,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldo-filho-85287323a/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geralldofillho.gf@gmail.com)
 
-![Ronny GitHub stats](https://github-readme-stats.vercel.app/api?username=ronnydouglasjr&show_icons=true&theme=dark)
+![Ronny GitHub stats](https://github-readme-stats.vercel.app/api?username=geralldofillho&show_icons=true&theme=dark)
 
 ## Tecnologia que eu uso
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; padding: 5px;" >
-  <br>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,javascript,css,html,github,discord,linkedin,instagram" />
+</a>
+  <br />
 
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
- 
-
-</div>
+  </div>
 
 ## About me 
 
