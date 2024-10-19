@@ -3,13 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geraldo-filho-85287323a/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:geralldofillho.gf@gmail.com)
 
-![Ronny GitHub stats](https://github-readme-stats.vercel.app/api?username=geralldofillho&show_icons=true&theme=dark)
+![Geraldo GitHub stats](https://github-readme-stats.vercel.app/api?username=geralldofillho&show_icons=true&theme=dark)
 
 ## Tecnologia que eu uso
 
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,javascript,css,html,github,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,javascript,css,html,github,discord,linkedin,gmail,instagram" />
 </a>
   <br />
 
